@@ -20,3 +20,6 @@
 ![image](https://github.com/shkim99stat/Bayesian-Inference/assets/83656698/1c0621c9-5c4d-49d4-a8f2-83e61e5e2c65)
 ![image](https://github.com/shkim99stat/Bayesian-Inference/assets/83656698/77f187f5-b680-4ffb-b819-8c05593faf57)
 ![image](https://github.com/shkim99stat/Bayesian-Inference/assets/83656698/9bdd69cb-8532-4106-b087-aee8cf157fbb)
+
+
+Reference :  https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf
