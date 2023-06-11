@@ -1,5 +1,11 @@
 # Metropolis-Hastings Algorithm
 
+*Metropolis-Hastings* (MH) algorithm is the most popular MCMC method.  
+An MH step of invariant distribution $`p(x)`$ and proposal distribution $`q(x^* | x) `$ involoves sampling a candidate value $`x^* `$ given the current value $` x `$ according to $` q(x^* | x) `$.
+The Markov chain then moves towards $` x^* `$ with acceptance probability $` A(x,x^* ) = \min \left\{ 1, [p(x)q(x^* | x)]^{-1} p(x^* ) q(x| x^* ) \right\} `$, otherwise it remains at $` x `$.   
+
+The psudo-code is   
+
 1. Initialize $x^{0}$
 2. For $i=0$ to $N-1$  
        - Sample $u \sim U(0,1)$  
