@@ -22,3 +22,7 @@ The psudo-code is
 ![image](https://github.com/shkim99stat/Bayesian-Inference/assets/83656698/ceca2eb2-675d-46e2-b979-cfee1ea0a3fb)
 ![image](https://github.com/shkim99stat/Bayesian-Inference/assets/83656698/d15591fb-8cb3-4c96-9033-c34b0254bbe5)
 ![image](https://github.com/shkim99stat/Bayesian-Inference/assets/83656698/d3fdd74e-3bd9-441d-b1e2-c74ee4f05105)
+
+
+
+Reference :  https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf
