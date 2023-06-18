@@ -48,3 +48,9 @@ $$ \mathbf \mu = \alpha \Sigma \boldsymbol{\mathfrak{A}}^T \mathbf y $$
 Thus, the *a posteriori* is a Normal distribution with mean $` \mathbf \mu = \alpha \Sigma \boldsymbol{\mathfrak{A}}^T \mathbf y `$ and standard deviation given by the inverse of Equation $`\boldsymbol{\Sigma}^{-1} =  \alpha \boldsymbol{\mathfrak{A}}^T \boldsymbol{\mathfrak{A}} +\beta \mathbf I `$
 
 We leave to the reader the proper mathematical derivation of  $\boldsymbol{\mu}$ and $\boldsymbol{\Sigma}$ without matching like what we did above.
+
+
+![jl_187MNolSDC](https://github.com/shkim99stat/Bayesian-Inference/assets/83656698/e1a5696f-6af6-453e-b465-fd481bffac1c)
+
+
+
